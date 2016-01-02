@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/zadyree
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zadyree.github.io
+  * I am zadyree (https://keybase.io/zadyree) on keybase.
+  * I have a public key with fingerprint D980 9E1D A0AF 3765 0BA1  1281 D0D4 467F D2F9 F1D7
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015068afb4fca4915384dcfce20ecbe43f889a0fbfaf4211b1d7a59f04fbd5dcd00a",
+            "fingerprint": "d9809e1da0af37650ba11281d0d4467fd2f9f1d7",
+            "host": "keybase.io",
+            "key_id": "d0d4467fd2f9f1d7",
+            "kid": "01015068afb4fca4915384dcfce20ecbe43f889a0fbfaf4211b1d7a59f04fbd5dcd00a",
+            "uid": "c5bf1fe50bb3fd7874a29426e35d2619",
+            "username": "zadyree"
+        },
+        "service": {
+            "hostname": "zadyree.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1451773001,
+    "expire_in": 157680000,
+    "prev": "2e8ac8f47bd49c59da897d671a2eacc52cc57a13f79fe7778322eb742b6fc166",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJrSBVBGL1miVrqJUoEkWojKjLd2dfsSvSAIntgxcVeiLeZnRndrLu3
+vevNm4QRZA+DEI2KMjORjIgogkKirCyyzIQwih5EVD+igp5cQ6tZqx9BPxsYhvnm
+nDPnfHxdaYm+1ITaQ+d1/ejHCwl3rh6p9K3ctXRRtYBtEhMKqoUKOnzQDYRG3GCF
+RYQCQQQiUEVNRwwrzESKAVRZV4jJTCqJ1MRUkZmuG0hkmCGmSABgQCBSDSYqDBOV
+mEQUkZArMCtURp2wY4VcLksMXTQoIEhETIaaKmIEgKQDIhJF0SAjEjMYF+LEcjvi
+Mbg5jCI0z7J5jV+Cw/b+gf/PviuH5UwVM8Ao94llRqAOFSQZiqRRWSWSBgwPGKFO
+CG2kHL0FkZhDqbA1V+DFqGVSr69ekL8BeWWWW16Jf2UKO7Zrm/YG/lzuuuFIgUd3
+Y2EPv5ni4G+lILZChPeSM6LUiVh2SCgAHGm6licNFBVAKIsiyBVoVdhyaNDyECrU
+dJEv7x8a5ZIS1ZGpMwViohimahCkG5BoECCJItNUJb4hAjKDBqMQQl2WJIqhImGN
+mUDTBC/bppDNtSH3icq4ZsQqCyG30uHJr3WWjPQlpPqSRo3whsyXmuL/M3r9r5J9
+dYWX4rO7X+KbWT8Ol6wYU5iWt35dUetxf/hr28aaRJb5Zv7YPR2jc7Oy/d/GZTj9
++Q9WffgE3g1V3FgRbYgVL22/2/LdnyBPGLRqH8f7XrzP6Fu7L7pzWnHT88G5k04k
+wVWBWTndB5eUVqV/QdkTep7WTm/qlU42FbVl9SW/vXU20Dauac/i1zPT49kL57y7
+uOb+8c4RD+MLzjSntK9jg0Lg8urr468UilMbdp/PH9qW+eQNm/K5+l776KxHxunX
+9cV7J9cXxm4HYq4OT82BzX0tRU93FG9v3JRqDy1ZFt+9vGeG/eyc1eo36qQDAxda
+A+jY6tKO3pz9zwcaJzoT53V15NT8BHGXRQs=
+=1Cdg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zadyree
+
+==================================================================
